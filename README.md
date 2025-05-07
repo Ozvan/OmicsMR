@@ -14,3 +14,8 @@ Scripts used for the pQTL MR and the Pwcoco analyses.
 The scripts are ordered in the order of analyses: first MR, then coloc.  
 Examples are provided on how to run them in arrays over the different datasets and proteins.
 
+
+The following versions were used:
+- TwoSampleMR: 0.5.9
+- metafor: 4.6
+- PLINK: 1.9
