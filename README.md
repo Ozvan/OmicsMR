@@ -14,6 +14,7 @@ Scripts used for the pQTL MR and the Pwcoco analyses.
 The scripts are ordered in the order of analyses: first MR, then coloc.  
 Examples are provided on how to run them in arrays over the different datasets and proteins.
 
+Additionally, the script to run the MDE calculations (proxy of expected power) applied to the pQTL MR is given.
 
 The following versions were used:
 - TwoSampleMR: 0.5.9
