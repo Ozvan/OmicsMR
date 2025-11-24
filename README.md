@@ -14,7 +14,7 @@ Scripts used for the pQTL MR and the Pwcoco analyses.
 The scripts are ordered in the order of analyses: first MR, then coloc.  
 Examples are provided on how to run them in arrays over the different datasets and proteins.
 
-Additionally, the script to run the MDE calculations (proxy of expected power) applied to the pQTL MR is given. Scripts used to perform post-MR analyses are also given, including a script used to compare the genes found to be causal to disease risk to disease effector genes previously established, and a script to compare the MR findings across tissues to previously defined genetic profiles of disease.
+Additionally, the script to run the MDE calculations (proxy of expected power) applied to the pQTL MR is given. Scripts used to perform post-MR analyses are also provided, including a script used to compare the genes found to be causal to disease risk to disease effector genes previously established, a script to compare the MR findings across tissues to previously defined genetic profiles of disease, and a script to compare MR findings with diabetes-related genes.
 
 The following versions were used:
 - TwoSampleMR: 0.5.9
